@@ -32,3 +32,7 @@ export const TextButton = styled.Text`
   font-weight: 800;
   color: #fff;
 `;
+export const ButtonLogin = styled.View`
+  margin-top: 200px;
+  align-items: center;
+`;
